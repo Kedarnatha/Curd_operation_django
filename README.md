@@ -1,4 +1,6 @@
-simple django curd operations are used
+# Django Project
+# simple django curd operations are used
+
 created by kedarnath araddy
 1. Adding records
 ![Screenshot 2024-12-26 184101](https://github.com/user-attachments/assets/53b99788-d78f-41c9-b83d-b7e57af5856c)
